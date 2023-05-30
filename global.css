@@ -1,0 +1,17 @@
+:root {
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 400;
+
+  --bg1-morning: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
+  --bg2-morning: linear-gradient(90deg, #22C1C3 0%, #FDBB2D 100%);
+
+  --bg1-afternoon: linear-gradient(90.56deg, #FC4A1A 3.26%, #F7B733 99.58%);
+  --bg2-afternoon: linear-gradient(90.56deg, #F7B733 3.26%, #FC4A1A 99.58%);
+
+  --bg1-evening: linear-gradient(90deg, #D3431C 0%, #1D2671 100%);
+  --bg2-evening: linear-gradient(90deg, #1D2671 0%, #D3431C 100%);
+
+  --bg-numbers: rgba(5, 5, 5, 0.9);
+
+  --text-color: #FFF;
+}
